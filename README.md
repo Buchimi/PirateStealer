@@ -1,6 +1,6 @@
-#### [🔗 Discord Link](https://discord.gg/mangas) - [📖 Terms](https://github.com/2wz/PirateStealer#terms) - [🔨 Builder](https://github.com/2wz/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/mangas) - [💡 Features](https://github.com/2wz/PirateStealer#features)
+#### [🔗 Discord Link](https://discord.gg/alicante) - [📖 Terms](https://github.com/2wz/PirateStealer#terms) - [🔨 Builder](https://github.com/2wz/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/mangas) - [💡 Features](https://github.com/2wz/PirateStealer#features)
 # PirateStealer
-Official PirateStealer repos
+Official PirateStealer repos FRESH UPDATED
 
 # What is PirateStealer ? 
 PirateStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
