@@ -1,4 +1,4 @@
-#### [🔗 Discord Link](https://discord.gg/alicante) - [📖 Terms](https://github.com/2wz/PirateStealer#terms) - [🔨 Builder](https://github.com/2wz/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/mangas) - [💡 Features](https://github.com/2wz/PirateStealer#features)
+#### [🔗 Discord Link](https://discord.gg/TW4n5atADe) - [📖 Terms](https://github.com/2wz/PirateStealer#terms) - [🔨 Builder](https://github.com/2wz/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/mangas) - [💡 Features](https://github.com/2wz/PirateStealer#features)
 # PirateStealer
 Official PirateStealer repos FRESH UPDATED
 
