@@ -1,19 +1,16 @@
-#### [🔗 Discord Link](https://discord.gg/TW4n5atADe) - [📖 Terms](https://github.com/2wz/PirateStealer#terms) - [🔨 Builder](https://github.com/2wz/PirateStealer/releases/Builder) - [💎 Premium](https://discord.gg/mangas) - [💡 Features](https://github.com/2wz/PirateStealer#features)
-# PirateStealer
-Official PirateStealer repos FRESH UPDATED
+# Pirate Stealer
 
-# What is PirateStealer ? 
-PirateStealer is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
+Pirate Build is an educational purpose only discord malware that can be used to scrape sensitive information from people's discord clients
 
-# Terms
-- [x] You only use it for educational or private purposes.
-- [x] Reselling is forbidden.
-- [x] Stole the project (Saying you made it etc) is forbidden.
-- [x] We can change terms when we want to.
+## Disclaimer
 
-![Login](https://media.discordapp.net/attachments/121237397445804032/889544742965223454/Discord_8b6cxYPMLE.png?width=566&height=683)
+I do not own this project. I nor the creator of Pirate Stealer are to be held accountable for how this project is used. I simply forked this project to document the code and make it easier for others to learn.
+In short, I, and by extention the creator, reserve the right to not give a fuck about how pirate stealer is used.
 
-# Features
+Also, for full disclosure, I am not affiliated in any way with the creator. I just got intrigued by their code.
+
+## Features
+
 - 2FA Codes
 - Low Detections (0/64)
 - Configuration System
